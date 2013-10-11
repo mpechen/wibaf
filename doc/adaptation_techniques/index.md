@@ -1,5 +1,5 @@
 # Adaptation Techniques
-According to [Knutov09](dx.doi.org/10.1080/13614560902801608), the techniques to perform adaptation can be classified in the following taxonomy:
+According to [Knutov09](dx.doi.org/10.1080/13614560902801608), adaptive techniques refer to methods of providing adaptation. Those techniques can be classified in the following taxonomy:
 * Content adaptation techniques
     * Inserting/Removing fragments
 	* Altering fragments
@@ -52,3 +52,5 @@ According to [Knutov09](dx.doi.org/10.1080/13614560902801608), the techniques to
 	    * Hiding
 		* Disabling
 		* Removal
+		
+As it can be noticed, there is some overlap between the three major techniques because sometimes content or navigation adaptation can be achieved adapting the presentation.
