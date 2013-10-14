@@ -1,23 +1,23 @@
 # Adaptation Techniques
-According to [Knutov09](dx.doi.org/10.1080/13614560902801608), adaptive techniques refer to methods of providing adaptation. Those techniques can be classified in the following taxonomy:
+According to [Knutov09](http://dx.doi.org/10.1080/13614560902801608), adaptive techniques refer to methods of providing adaptation. These techniques can be classified in the following taxonomy:
 * [Content adaptation techniques](content_adaptation/index.md)
-    * Inserting/Removing fragments
-	* Altering fragments
-	* Dimming fragments
-	* Sorting fragments
-	* Stretchtext
-	* Zoom/Scale
-	    * Conventional scaling/zooming
-		* Fisheye view
-		* Fragment summarization
+    * [Inserting/Removing fragments](content_adaptation/index.md#insertingremoving-fragments)
+	* [Altering fragments](content_adaptation/index.md#altering-fragments)
+	* [Dimming fragments](content_adaptation/index.md#dimming-fragments)
+	* [Sorting fragments](content_adaptation/index.md#sorting-fragments)
+	* [Stretchtext](content_adaptation/index.md#stretchtext)
+	* [Zoom/Scale](content_adaptation/index.md#zoomscale-fragments)
+	    * [Conventional scaling/zooming](content_adaptation/index.md#conventional-scalingzooming)
+		* [Fisheye view](content_adaptation/index.md#fisheye-view)
+		* [Fragment summarization](content_adaptation/index.md#fragment-summarization)
 * [Adaptive presentation techniques](adaptive_presentation/index.md)
-	* Dimming fragments
-	* Sorting fragments
-	* Stretchtext
-	* Zoom/Scale
-	    * Conventional scaling/zooming
-		* Fisheye view
-		* Fragment summarization
+	* [Dimming fragments](content_adaptation/index.md#dimming-fragments)
+	* [Sorting fragments](content_adaptation/index.md#sorting-fragments)
+	* [Stretchtext](content_adaptation/index.md#stretchtext)
+	* [Zoom/Scale](content_adaptation/index.md#zoomscale-fragments)
+	    * [Conventional scaling/zooming](content_adaptation/index.md#conventional-scalingzooming)
+		* [Fisheye view](content_adaptation/index.md#fisheye-view)
+		* [Fragment summarization](content_adaptation/index.md#fragment-summarization)
 	* Layout
 	    * Partitioning/zooming
 		* Rearrangement
@@ -25,32 +25,23 @@ According to [Knutov09](dx.doi.org/10.1080/13614560902801608), adaptive techniqu
 	* Link sorting/ordering
 	* Link annotation
 	* Combinatorial techniques
-	    * Contextual links
-		* Non-contextual links
-		* Context, index links
-		* Local and global maps
 * [Adaptive navigation techniques](adaptive_navigation/index.md)
-	* Zoom/Scale
-	    * Conventional scaling/zooming
-		* Fisheye view
-		* Fragment summarization
-	* Link sorting/ordering
-	* Link annotation
-	* Combinatorial techniques
-	    * Contextual links
-		* Non-contextual links
-		* Context, index links
-		* Local and global maps
-	* Link generation
-	    * Anchor adaptation
-		* URL adaptation
-		* Destination adaptation
-	* Guidance
-	    * Direct (local) guidance
-		* Global guidance
-	* Link hiding
-	    * Hiding
-		* Disabling
-		* Removal
-		
+	* [Zoom/Scale](content_adaptation/index.md#zoomscale-fragments)
+	    * [Conventional scaling/zooming](content_adaptation/index.md#conventional-scalingzooming)
+		* [Fisheye view](content_adaptation/index.md#fisheye-view)
+		* [Fragment summarization](content_adaptation/index.md#fragment-summarization)
+	* [Link sorting/ordering](adaptive_navigation/index.md#link-sortingordering)
+	* [Link annotation](adaptive_navigation/index.md#link-annotation)
+	* [Combinatorial techniques](adaptive_navigation/index.md#combinatorial-techniques)
+	* [Link generation](adaptive_navigation/index.md#link-generation)
+	    * [Anchor adaptation](adaptive_navigation/index.md#anchor-adaptation)
+		* [URL adaptation](adaptive_navigation/index.md#url-adaptation)
+		* [Destination adaptation](adaptive_navigation/index.md#destination-adaptation)
+	* [Guidance](adaptive_navigation/index.md#guidance)
+	    * [Direct (local) guidance](adaptive_navigation/index.md#direct-local-guidance)
+		* [Global guidance](adaptive_navigation/index.md#global-guidance)
+	* [Link hiding](adaptive_navigation/index.md#link-hiding)
+	    * [Hiding](adaptive_navigation/index.md#hiding)
+		* [Disabling](adaptive_navigation/index.md#disabling)
+		* [Removal](adaptive_navigation/index.md#removal)
 As it can be noticed, there is some overlap between the three major techniques because sometimes content or navigation adaptation can be achieved adapting the presentation.
