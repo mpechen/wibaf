@@ -14,7 +14,7 @@ One technique that can be used to adapt the layout is to partition the presentat
 ### Rearrangement
 Another technique is the rearrangement of the content in order to make it fit to another layout more convenient to the user environment or characteristics. This rearrangement is different than the [sorting fragments](../content_adaptation/index.md#sorting-fragments) because where the latter has to do with the content of the fragments, the first is related to the presentation of that content.
 ### Fitting in a template
-
+Finally, the layout can also be adapted by fitting it in a template mandated by some external application which require to add or remove parts that do not fit.
 ## [Link sorting/ordering](../adaptive_navigation/index.md#link-sortingordering)
 ## [Link annotation](../adaptive_navigation/index.md#link-annotation)
 ## [Combinatorial techniques](../adaptive_navigation/index.md#combinatorial-techniques)
