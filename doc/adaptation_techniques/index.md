@@ -10,7 +10,7 @@ According to [Knutov09](dx.doi.org/10.1080/13614560902801608), adaptive techniqu
 	    * Conventional scaling/zooming
 		* Fisheye view
 		* Fragment summarization
-* Adaptive presentation techniques(adaptive_presentation/index.md)
+* [Adaptive presentation techniques](adaptive_presentation/index.md)
 	* Dimming fragments
 	* Sorting fragments
 	* Stretchtext
@@ -29,7 +29,7 @@ According to [Knutov09](dx.doi.org/10.1080/13614560902801608), adaptive techniqu
 		* Non-contextual links
 		* Context, index links
 		* Local and global maps
-* Adaptive navigation techniques(adaptive_navigation/index.md)
+* [Adaptive navigation techniques](adaptive_navigation/index.md)
 	* Zoom/Scale
 	    * Conventional scaling/zooming
 		* Fisheye view

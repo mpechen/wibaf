@@ -1,2 +1,2 @@
 # Adaptive navigation
-According to [Brusilovky07](http://dx.doi.org/10.1007/978-3-540-72079-9_8)
+According to [Brusilovky07](http://dx.doi.org/10.1007/978-3-540-72079-9_8), adaptive navigation support is a specific group of technologies that support user navigation in hyperspace, by adapting to the goals, preferences and knowledge of the individual user.

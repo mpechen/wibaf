@@ -1,1 +1,2 @@
 # Content Adaptation
+According to [Brusilovsky 96](dx.doi.org/10.1007/BF00143964) content adaptation techniques are those whose goal is to hide fragments of the content which are not relevant to the user or to highlight those which are relevant.

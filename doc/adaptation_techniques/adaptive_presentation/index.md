@@ -1,1 +1,2 @@
 # Adaptive presentation
+As said on [Brusilovsky 96](dx.doi.org/10.1007/BF00143964), the idea behind adaptive presentation is to adapt the content of a page accesed by a user according to his characteristics, however, at that time, most work in adaptive presentation has been done in the field of textual elements. Brusilovsky realised about the need of distinguish adaptive text presentation and adaptive multimedia presentation.
