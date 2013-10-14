@@ -22,9 +22,9 @@ According to [Knutov09](http://dx.doi.org/10.1080/13614560902801608), adaptive t
 	    * Partitioning/zooming
 		* Rearrangement
 		* Fitting in a template
-	* Link sorting/ordering
-	* Link annotation
-	* Combinatorial techniques
+	* [Link sorting/ordering](adaptive_navigation/index.md#link-sortingordering)
+	* [Link annotation](adaptive_navigation/index.md#link-annotation)
+	* [Combinatorial techniques](adaptive_navigation/index.md#combinatorial-techniques)
 * [Adaptive navigation techniques](adaptive_navigation/index.md)
 	* [Zoom/Scale](content_adaptation/index.md#zoomscale-fragments)
 	    * [Conventional scaling/zooming](content_adaptation/index.md#conventional-scalingzooming)
@@ -44,4 +44,5 @@ According to [Knutov09](http://dx.doi.org/10.1080/13614560902801608), adaptive t
 	    * [Hiding](adaptive_navigation/index.md#hiding)
 		* [Disabling](adaptive_navigation/index.md#disabling)
 		* [Removal](adaptive_navigation/index.md#removal)
+		
 As it can be noticed, there is some overlap between the three major techniques because sometimes content or navigation adaptation can be achieved adapting the presentation.
