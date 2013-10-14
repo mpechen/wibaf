@@ -11,12 +11,13 @@ Link annotation keeps all the links accessible and annotates them in order to in
 ## Combinatorial techniques
 A combination of the adaptive navigation techniques can be used in order to increase their effectiveness. [Brusilovky07](http://dx.doi.org/10.1007/978-3-540-72079-9_8) proposes the following table according to the applicability of each technique.
 
- | Direct guidance | Sorting | Hiding    | Annotation | Generation
--| --------------- | ------- | --------- | ---------- | ----------
-Contextual links          | OK |    | Disabling | OK |
-Non-contextual links      | OK | OK | OK        | OK | OK
-Table of contents / index | OK |    |           | OK |
-Hyperspace maps           | OK |    | OK        | OK |
+|                            | Direct guidance | Sorting | Hiding    | Annotation | Generation |
+| -------------------------- | --------------- | ------- | --------- | ---------- | ---------- |
+| Contextual links           | OK              |         | Disabling | OK         |            |
+| Non-contextual links       | OK              | OK      | OK        | OK         | OK         |
+| Table of contents / index  | OK              |         |           | OK         |            |
+| Hyperspace maps            | OK              |         | OK        | OK         |            |
+
 ## Link generation
 This technique consists of the creation of new non-authored links on a page. This can be done discovering page or item similarities, or recommending useful links according to the user model.
 ### Anchor adaptation
